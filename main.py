@@ -1,8 +1,6 @@
 import pickle
-
 from pokemon import *
 from person import *
-
 
 def choose_starter_pokemon(player):
     print("Hello {}, You can now choose the pokemon that will accompany you on this journey!".format(player))
